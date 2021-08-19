@@ -70,7 +70,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "لا تغيـرها ابدا",
-      "value": "Jmthon-iq",
+      "value": "ModLso",
       "required": false
     }
   },
